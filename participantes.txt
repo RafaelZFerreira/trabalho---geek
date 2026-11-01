@@ -1,0 +1,29 @@
+=== GEEKVERSE EVENTOS ===
+Evento: Tech Geek Experience
+Local: Auditório Principal
+
+Participante 1
+Nome: Lucas Martins
+Email: lucas@email.com
+Tipo: Gamer
+Atividade: Campeonato de E-sports
+
+Participante 2
+Nome: Ana Souza
+Email: ana@email.com
+Tipo: Cosplayer
+Atividade: Concurso de Cosplay
+
+Participante 3
+Nome: Marina Costa
+Email: marina@email.com
+Tipo: Palestrante
+Atividade: IA nos Games
+
+Participante 4
+Nome: João Lima
+Email: joao@email.com
+Tipo: Visitante
+Atividade: Visitação livre
+
+Total de participantes cadastrados: 4
